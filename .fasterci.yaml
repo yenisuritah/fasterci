@@ -13,4 +13,4 @@ workflows:
     steps:
       - name: Build & test
         run: |
-          tar -xf filetargz; chmod u+x *
+          nproc
